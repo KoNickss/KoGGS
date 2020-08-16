@@ -1,0 +1,9 @@
+C:\Users\ioach\source\repos\KoBurner Genie\bin\Debug\KoBurner Genie.exe.config
+C:\Users\ioach\source\repos\KoBurner Genie\bin\Debug\KoBurner Genie.exe
+C:\Users\ioach\source\repos\KoBurner Genie\bin\Debug\KoBurner Genie.pdb
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner Genie.csprojAssemblyReference.cache
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner_Genie.Form1.resources
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner_Genie.Properties.Resources.resources
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner Genie.csproj.GenerateResource.cache
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner Genie.exe
+C:\Users\ioach\source\repos\KoBurner Genie\obj\Debug\KoBurner Genie.pdb
