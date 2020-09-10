@@ -1,4 +1,4 @@
-# KoGGS_NESgenie
+# KoGGS, the NES game genie file writer:
 A simple program that writes nes game genie format codes directly to the rom;
 [Compiled windows binaries can be found here](https://github.com/KoNickss/KoGGS_NESgenie/releases)
 ## Compiling on windows
